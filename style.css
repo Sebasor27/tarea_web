@@ -1,0 +1,50 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #520000;
+    padding: 10px;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+}
+
+li {
+    margin: 0 15px;
+    padding: 10px;
+    background: #007bff;
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.title {
+    text-align: center;
+    font-family: 'bebas neue';
+    font-size: 2em;
+    color: black;
+}
+.sebas{
+    font-family: 'Noto Sans', sans-serif;
+}
+.general {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+.imagen2 {
+    rotate: 15deg;
+}
+.logo {
+    color: #fdfdfd;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px;
+}
